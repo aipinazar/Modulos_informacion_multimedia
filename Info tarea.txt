@@ -1,0 +1,2 @@
+Este repositorio se crea para la realización de la tarea evaluativa de la U3 del módulo RPMI. 
+Se utilizará como repositorio remoto en el que se añadirán archivos a medida que se vayan creando para el proyecto final.
